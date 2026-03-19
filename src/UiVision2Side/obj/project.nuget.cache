@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "LDijBMAvbIE=",
+  "success": true,
+  "projectFilePath": "/home/runner/work/UiVisonToSide/UiVisonToSide/src/UiVision2Side/UiVision2Side.csproj",
+  "expectedPackageFiles": [
+    "/tmp/codeql-scratch-03a8c53e16484b0b/dbs/csharp/working/packages/microsoft.netcore.app.ref/8.0.23/microsoft.netcore.app.ref.8.0.23.nupkg.sha512",
+    "/tmp/codeql-scratch-03a8c53e16484b0b/dbs/csharp/working/packages/microsoft.aspnetcore.app.ref/8.0.23/microsoft.aspnetcore.app.ref.8.0.23.nupkg.sha512",
+    "/tmp/codeql-scratch-03a8c53e16484b0b/dbs/csharp/working/packages/microsoft.netcore.app.host.linux-x64/8.0.23/microsoft.netcore.app.host.linux-x64.8.0.23.nupkg.sha512"
+  ],
+  "logs": []
+}

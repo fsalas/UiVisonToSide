@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/UiVision2Side/UiVision2Side.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/UiVision2Side.Tests/UiVision2Side.Tests.csproj" />
+  </Folder>
+</Solution>
