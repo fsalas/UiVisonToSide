@@ -1,0 +1,15 @@
+/home/runner/work/UiVisonToSide/UiVisonToSide/src/UiVision2Side/bin/Debug/net8.0/UiVision2Side
+/home/runner/work/UiVisonToSide/UiVisonToSide/src/UiVision2Side/bin/Debug/net8.0/UiVision2Side.deps.json
+/home/runner/work/UiVisonToSide/UiVisonToSide/src/UiVision2Side/bin/Debug/net8.0/UiVision2Side.runtimeconfig.json
+/home/runner/work/UiVisonToSide/UiVisonToSide/src/UiVision2Side/bin/Debug/net8.0/UiVision2Side.dll
+/home/runner/work/UiVisonToSide/UiVisonToSide/src/UiVision2Side/bin/Debug/net8.0/UiVision2Side.pdb
+/home/runner/work/UiVisonToSide/UiVisonToSide/src/UiVision2Side/obj/Debug/net8.0/UiVision2Side.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/work/UiVisonToSide/UiVisonToSide/src/UiVision2Side/obj/Debug/net8.0/UiVision2Side.AssemblyInfoInputs.cache
+/home/runner/work/UiVisonToSide/UiVisonToSide/src/UiVision2Side/obj/Debug/net8.0/UiVision2Side.AssemblyInfo.cs
+/home/runner/work/UiVisonToSide/UiVisonToSide/src/UiVision2Side/obj/Debug/net8.0/UiVision2Side.csproj.CoreCompileInputs.cache
+/home/runner/work/UiVisonToSide/UiVisonToSide/src/UiVision2Side/obj/Debug/net8.0/UiVision2Side.sourcelink.json
+/home/runner/work/UiVisonToSide/UiVisonToSide/src/UiVision2Side/obj/Debug/net8.0/UiVision2Side.dll
+/home/runner/work/UiVisonToSide/UiVisonToSide/src/UiVision2Side/obj/Debug/net8.0/refint/UiVision2Side.dll
+/home/runner/work/UiVisonToSide/UiVisonToSide/src/UiVision2Side/obj/Debug/net8.0/UiVision2Side.pdb
+/home/runner/work/UiVisonToSide/UiVisonToSide/src/UiVision2Side/obj/Debug/net8.0/UiVision2Side.genruntimeconfig.cache
+/home/runner/work/UiVisonToSide/UiVisonToSide/src/UiVision2Side/obj/Debug/net8.0/ref/UiVision2Side.dll

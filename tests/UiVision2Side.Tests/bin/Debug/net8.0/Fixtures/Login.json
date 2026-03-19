@@ -1,0 +1,43 @@
+{
+  "Name": "Login",
+  "CreationDate": "2026-3-18",
+  "Commands": [
+    {
+      "Command": "open",
+      "Target": "https://example.com/login",
+      "Value": "",
+      "Targets": [],
+      "Description": "Navigate to login page"
+    },
+    {
+      "Command": "click",
+      "Target": "xpath=//input[@id='username']",
+      "Value": "",
+      "Targets": [
+        "xpath=//input[@id='username']",
+        "css=#username"
+      ],
+      "Description": "Click username field"
+    },
+    {
+      "Command": "type",
+      "Target": "xpath=//input[@id='username']",
+      "Value": "admin",
+      "Targets": [
+        "xpath=//input[@id='username']",
+        "css=#username"
+      ],
+      "Description": "Enter username"
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "css=button[type='submit']",
+      "Value": "",
+      "Targets": [
+        "css=button[type='submit']",
+        "xpath=//button[@type='submit']"
+      ],
+      "Description": "Submit login form"
+    }
+  ]
+}
